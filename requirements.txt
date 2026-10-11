@@ -1,0 +1,11 @@
+opencv-python
+mediapipe==0.10.14
+numpy
+scipy
+scikit-learn
+torch
+tqdm
+matplotlib
+pandas
+streamlit
+pytest

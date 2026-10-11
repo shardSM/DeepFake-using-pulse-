@@ -1,0 +1,9 @@
+.venv/
+data/
+cache/
+cache_dummy/
+checkpoints/
+__pycache__/
+*.png
+*.npz
+.pytest_cache/
